@@ -1,0 +1,32 @@
+Week02 Review:
+
+    Topics:
+        Playwright Fundamentals 
+            Test Function
+            page fxitur
+            Hooks
+
+        Global Configurations
+            headed/headless
+            Parallel
+            retries
+            playwright browsers
+
+            Recording test videos
+            Trace for Debugging
+            Local Desktop browser configurations
+            Mobile browser configurations
+
+        SEP Project
+
+Week05: Project Implementation Week
+
+        JavaScript version of the BDD & TDD
+
+
+npm playwright init@latest
+
+
+lowerCamel Case: automationPractice.spec.js
+
+Kebob-case: automation-practice.spec.js

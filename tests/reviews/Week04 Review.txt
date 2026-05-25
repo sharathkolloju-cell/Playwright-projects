@@ -1,0 +1,75 @@
+Week04:
+	
+	Topics:
+		Jenkins
+			Job configurations
+			credentials
+			environment variables
+
+        GitHub Actions
+
+		Playwright Fixtures:
+            Context
+            Browser
+
+
+GitHub Actions:  uses .ymal file to create the workflows
+
+        Circile CI           ======>   .ymal
+        BitBucket Pipeline   ======>   .ymal
+        GitHub Actions       ======>   .ymal
+
+
+Jenkins assignment: (After the project implementation week)
+
+	1. sep-smoke-Job:
+			schedule it to run at 8 AM every day from Monday to Friday ONLY
+
+            Cucumber HTML Report
+
+     2. sep-reg-job:
+			schedule it to run at 7 PM evryday
+
+            Cucumber HTML Report
+
+Github Actions' assignment (After the project implementation week)
+
+    1. sep-smoke-workflow:
+            schedule it to run at 8 AM every day from Monday to Friday ONLY
+
+    2. sep-regression-workflow:
+            schedule it to run at 7 PM evryday
+
+
+Next Week: SEP Project Implementation Week
+
+    JavaScript version of Playwright BDD Framework
+
+    Live Class: BDD Review
+                baseUrl & request fxitures
+
+
+Next Next Week: TypeScript Programming, Playwright with TypeScript  
+
+        TypeScript version of Playwright BDD Framework
+        TypeScript version of Playwright TDD Framework
+
+
+========================
+
+Get ready for Week 05 Next Class:
+    Git Operations:
+        Create repository on Github
+        Push your project to the Github
+        Create feature branches & being able to checkout
+
+    BDD:
+        Be able to write feature files scenarios
+        Be able to generate step definitions and run the step definitions (dryrun)
+        Be able to use POM (page object module)
+
+    Jenkins:
+        Be able to configure cucumber-report for jenkins job.
+
+    GitHub Actions:
+        Be able to create workflows
